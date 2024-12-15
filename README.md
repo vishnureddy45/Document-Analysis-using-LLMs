@@ -7,7 +7,9 @@ Step 1: Select a Suitable LLM
 Choose a pre-trained model optimized for text generation tasks. Google’s T5 model is ideal for tasks like translation, question-answering, and summarization. You can select from variants such as:
 
 t5-small: Faster, low memory usage—ideal for quick tasks on limited hardware.
+
 t5-base: Balanced speed and accuracy for general use.
+
 t5-large: Higher accuracy but resource-intensive—best for performance-critical applications.
 
 Step 2: Install Required Libraries
